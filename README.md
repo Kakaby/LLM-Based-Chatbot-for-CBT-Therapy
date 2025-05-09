@@ -57,6 +57,7 @@ Click here to check out the [**Technical Requirements Document**](Technical_Requ
 ├── 03_journaling.py            # Guided journaling chatbot module
 ├── requirements.txt            # Required Python packages
 └── .env                        # Environment variables (not in the repo)
+```
 
 ## Intent of the PoC
 - Prototype AI-assisted between-session support for patients
