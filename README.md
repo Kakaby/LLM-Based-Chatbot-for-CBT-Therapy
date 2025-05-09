@@ -11,7 +11,7 @@ Guided by **Professor Benjamin Kinsella**.
 
 ---
 ## Documentations
-Click here to check out the [**Technical Requirements Document**](Documents/Technical_Requirements_Document.pdf/) and [**Presentation**](Documents/LLM_Therapy_Companion.pdf/).
+Click here to check out the [**Technical Requirements Document**](Documents/Technical_Requirements_Document.pdf/) and [**Presentation Slides**](Documents/LLM_Therapy_Companion.pdf/) for more details about the research and End-to-End User Workflow.
 
 ---
 ## Features
@@ -26,12 +26,12 @@ Click here to check out the [**Technical Requirements Document**](Documents/Tech
 - Walks users through PHQ-9 and GAD-7  
 - Scores and interprets mental health indicators  
 - Gently responds based on results, including soft risk alerts
-- Click here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://02intakeselfassessmentpy-4ymcdbzvuzghxhhaskfpxk.streamlit.app/)
+- Click here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://02intakeselfassessmentpy-4ymcdbzvuzghxhhaskfpxk.streamlit.app/).
 
 ### ✅ Use Case 3: Journaling and Mood Reflection  
 - Offers a guided, CBT-inspired daily journaling experience  
 - Promotes self-reflection, mood tracking, pattern recognition, and emotional awareness
-- Click on here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://03journaling.streamlit.app/)
+- Click on here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://03journaling.streamlit.app/).
 
 ---
 
