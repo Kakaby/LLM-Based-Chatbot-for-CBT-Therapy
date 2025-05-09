@@ -9,9 +9,12 @@ This is a practicum project for Columbia University QMSSGR5053
 **Arete Song, Boyan Sun, Chenchen Li, Dyuthi Dinesh, Jimin Oh, Ruixuan Zhao, Yuge Yan**  
 
 Guided by **Professor Benjamin Kinsella**.
-**
----
 
+---
+## Documentations
+Click here to check out the **Technical Requirement Document** and **Presentation**
+
+---
 ## Features
 
 ### ✅ Use Case 1: CBT Therapy Simulation  
@@ -68,5 +71,5 @@ Guided by **Professor Benjamin Kinsella**.
 - No Treatment Plan Management or Progress Tracking
 
 ## Proposed System Architecture
-To move from a PoC to a clinically viable product, the following features and architectural considerations would be required
+To move from a PoC to a clinically viable product, more features and architectural considerations would be required, click here to check out the **Proposed System Architecture** .
 
