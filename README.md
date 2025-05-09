@@ -5,7 +5,7 @@ This is a Proof of Concept (PoC) for an AI-powered chatbot designed to support p
 > ⚠️ This is a prototype for demonstration and research purposes only. It is **not intended for clinical use**.
 
 # Team Members
-This is a practicum project for **Columbia University QMSSGR5053** by **Arete Song, Boyan Sun, Chenchen Li, Dyuthi Dinesh, Jimin Oh, Ruixuan Zhao, Yuge Yan**.  
+This practicum project for **Columbia University’s QMSS GR5053 course** was developed by **Arete Song, Boyan Sun, Chenchen Li, Dyuthi Dinesh, Jimin Oh, Ruixuan Zhao, and Yuge Yan**.  
 
 Guided by **Professor Benjamin Kinsella**.
 
