@@ -5,7 +5,7 @@ This is a Proof of Concept (PoC) for an AI-powered chatbot designed to support p
 > ⚠️ This is a prototype for demonstration and research purposes only. It is **not intended for clinical use**.
 
 # Team Members
-This is a practicum project for Columbia University QMSSGR5053
+This is a practicum project for **Columbia University QMSSGR5053**
 
 By **Arete Song, Boyan Sun, Chenchen Li, Dyuthi Dinesh, Jimin Oh, Ruixuan Zhao, Yuge Yan**  
 
@@ -13,7 +13,7 @@ Guided by **Professor Benjamin Kinsella**.
 
 ---
 ## Documentations
-Click here to check out the **Technical Requirement Document** and **Presentation**
+Click here to check out the [**Technical Requirement Document**](Technical_Requirement_Document.pdf/) and [**Presentation**](LLM_Therapy_Companion.pdf/)
 
 ---
 ## Features
@@ -72,5 +72,5 @@ Click here to check out the **Technical Requirement Document** and **Presentatio
 - No Treatment Plan Management or Progress Tracking
 
 ## Proposed System Architecture
-To move from a PoC to a clinically viable product, more features and architectural considerations would be required, click here to check out the **Proposed System Architecture** .
+To move from a PoC to a clinically viable product, more features and architectural considerations would be required, click here to check out the [**Proposed System Architecture**](Proposed_System_Architecture/) .
 
