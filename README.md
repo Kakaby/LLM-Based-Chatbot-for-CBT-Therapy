@@ -71,5 +71,5 @@ Click here to check out the [**Technical Requirements Document**](Documents/Tech
 - No Treatment Plan Management or Progress Tracking
 
 ## Proposed System Architecture
-To move from a PoC to a clinically viable product, more features and architectural considerations would be required, click here to check out the [**Proposed System Architecture**](Proposed_System_Architecture/) .
+To move from a PoC to a clinically viable product, more features and architectural considerations would be required, click here to check out the [**Proposed System Architecture**](Proposed_System_Architecture/). 
 
