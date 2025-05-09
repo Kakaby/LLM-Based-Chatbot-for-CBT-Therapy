@@ -11,7 +11,8 @@ This is a Proof of Concept (PoC) for an AI-powered chatbot designed to support p
 ### ✅ Use Case 1: CBT Therapy Simulation  
 - Chatbot guides users through reflective prompts  
 - Identifies cognitive distortions (e.g., catastrophizing, mind reading)  
-- Responds with supportive, non-judgmental feedback  
+- Responds with supportive, non-judgmental feedback
+- The **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://01simpletherapistpy-ge5dpxndetvtwf5iazhr4n.streamlit.app/) is hosted on **Streamlit**.
 
 ### ✅ Use Case 2: Intake Assessment  
 - Walks users through PHQ-9 and GAD-7  
