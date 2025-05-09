@@ -11,7 +11,7 @@ Guided by **Professor Benjamin Kinsella**.
 
 ---
 ## Documentations
-Click here to check out the [**Technical Requirements Document**](Documents/Technical_Requirements_Document.pdf/) and [**Presentation Slides**](Documents/LLM_Therapy_Companion.pdf/) for more details about the research and End-to-End User Workflow.
+Click here to check out the [**Technical Requirements Document**](Documents/Technical_Requirements_Document.pdf/) and [**Presentation Slides**](Documents/LLM_Therapy_Companion.pdf/) for more details about the **market research**, **End-to-End user workflow** and **success metrics**.
 
 ---
 ## Features
