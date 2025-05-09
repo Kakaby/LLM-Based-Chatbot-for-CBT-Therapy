@@ -13,7 +13,7 @@ Guided by **Professor Benjamin Kinsella**.
 
 ---
 ## Documentations
-Click here to check out the [**Technical Requirement Document**](Technical_Requirement_Document.pdf/) and [**Presentation**](LLM_Therapy_Companion.pdf/)
+Click here to check out the [**Technical Requirements Document**](Technical_Requirements_Document.pdf/) and [**Presentation**](LLM_Therapy_Companion.pdf/)
 
 ---
 ## Features
