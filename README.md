@@ -12,16 +12,18 @@ This is a Proof of Concept (PoC) for an AI-powered chatbot designed to support p
 - Chatbot guides users through reflective prompts  
 - Identifies cognitive distortions (e.g., catastrophizing, mind reading)  
 - Responds with supportive, non-judgmental feedback
-- The **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://01simpletherapistpy-ge5dpxndetvtwf5iazhr4n.streamlit.app/) is hosted on **Streamlit**.
+- Click on here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://01simpletherapistpy-ge5dpxndetvtwf5iazhr4n.streamlit.app/).
 
 ### ✅ Use Case 2: Intake Assessment  
 - Walks users through PHQ-9 and GAD-7  
 - Scores and interprets mental health indicators  
-- Gently responds based on results, including soft risk alerts  
+- Gently responds based on results, including soft risk alerts
+- Click here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://02intakeselfassessmentpy-4ymcdbzvuzghxhhaskfpxk.streamlit.app/)
 
 ### ✅ Use Case 3: Journaling and Mood Reflection  
 - Offers a guided, CBT-inspired journaling experience  
-- Promotes self-reflection, pattern recognition, and emotional awareness  
+- Promotes self-reflection, pattern recognition, and emotional awareness
+- Click on here to check out the **interactive dashboard demo** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]
 
 ---
 
